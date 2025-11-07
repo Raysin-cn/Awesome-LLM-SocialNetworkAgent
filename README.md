@@ -40,9 +40,11 @@
 ### Network Platform Simulation
 | Date | Name | Title | Paper | Github |
 |:-:|:-:|:-|:-:|:-:|
-|2024-04| `OASIS` | OASIS: Open Agent Social Interaction Simulations with One Million Agents | [Arxiv](https://arxiv.org/abs/2411.11581) | [Github](https://github.com/camel-ai/oasis) |
+|2024-04| `OASIS` | OASIS: Open Agent Social Interaction Simulations with One Million Agents | [NeurIPS24 WP](https://arxiv.org/abs/2411.11581) | [Github](https://github.com/camel-ai/oasis) |
 |2025-11| `SPARK` | SPARK: Simulating the Co-evolution of Stance and Topic Dynamics in Online Discourse with LLM-based Agents | [EMNLP25](https://aclanthology.org/2025.emnlp-main.1176.pdf) | comming soon |
 |2024-12| `TrendSim` | TrendSim: Simulating Trending Topics in Social Media Under Poisoning Attacks with LLM-based Multi-agent System | [NAACL25](https://aclanthology.org/2025.findings-naacl.160.pdf) | [Github](https://github.com/nuster1128/TrendSim)  |
+|2025-10| `DEBATE` | DEBATE: A Large-Scale Benchmark for Role-Playing LLM Agents in Multi-Agent, Long-Form Debates | [NeurIPS25 WP](https://arxiv.org/pdf/2510.25110) | - |
+
 
 
 ### Agent Agent Collaboration
