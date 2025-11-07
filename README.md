@@ -38,13 +38,20 @@
 |2025-05|  | Consistently Simulating Human Personas with Multi-Turn Reinforcement Learning | [NeurIPS25](https://openreview.net/pdf/109c600393cc962e64028e8425eca62778f40ee9.pdf) | [Github](https://github.com/abdulhaim/consistent-LLMs) |
 
 ### Network Platform Simulation
+- Real Life Sim
+
 | Date | Name | Title | Paper | Github |
 |:-:|:-:|:-|:-:|:-:|
 |2024-04| `OASIS` | OASIS: Open Agent Social Interaction Simulations with One Million Agents | [NeurIPS24 WP](https://arxiv.org/abs/2411.11581) | [Github](https://github.com/camel-ai/oasis) |
+|2025-10| `SimWorld` | SimWorld: An Open-ended Realistic Simulator for Autonomous Agents in Physical and Social Worlds | [NeruIPS25](https://openreview.net/pdf/a98dee23d8b37552151336bbac20c838fd5e9ee1.pdf) | [Website](https://simworld.org/) |
+
+- Trend Sim
+
+| Date | Name | Title | Paper | Github |
+|:-:|:-:|:-|:-:|:-:|
 |2025-11| `SPARK` | SPARK: Simulating the Co-evolution of Stance and Topic Dynamics in Online Discourse with LLM-based Agents | [EMNLP25](https://aclanthology.org/2025.emnlp-main.1176.pdf) | comming soon |
 |2024-12| `TrendSim` | TrendSim: Simulating Trending Topics in Social Media Under Poisoning Attacks with LLM-based Multi-agent System | [NAACL25](https://aclanthology.org/2025.findings-naacl.160.pdf) | [Github](https://github.com/nuster1128/TrendSim)  |
 |2025-10| `DEBATE` | DEBATE: A Large-Scale Benchmark for Role-Playing LLM Agents in Multi-Agent, Long-Form Debates | [NeurIPS25 WP](https://arxiv.org/pdf/2510.25110) | - |
-
 
 
 ### Agent Agent Collaboration
