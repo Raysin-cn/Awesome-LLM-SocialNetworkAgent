@@ -20,12 +20,13 @@
 |:-:|:-:|:-|:-:|:-:|
 |2025-11|  | Evaluating Conversational Agents with Persona-driven User Simulations based on Large Language Models: A Sales Bot Case Study | [EMNLP25](https://aclanthology.org/2025.emnlp-industry.16.pdf) | - |
 |2024-4| `LifeChoice` | Character is Destiny: Can Role-Playing Language Agents Make Persona-Driven Decisions? | [EMNLP25](https://arxiv.org/abs/2404.12138) | [Github](https://github.com/airaer1998/LifeChoice) |
+|2025-1| | Modeling, Evaluating, and Embodying Personality in LLMs: A Survey | [EMNLP25](https://aclanthology.org/2025.findings-emnlp.506.pdf) | - |
 
 - Graph-based
 
 | Date | Name | Title | Paper | Github |
 |:-:|:-:|:-|:-:|:-:|
-|2025-11| `GEMS` | Rethinking LLM Human Simulation: When a Graph is What You Need | [EMNLP25]([https://aclanthology.org/2025.emnlp-industry.16.pdf](https://arxiv.org/abs/2511.02135)) | [Github](https://github.com/schang-lab/gems) |
+|2025-11| `GEMS` | Rethinking LLM Human Simulation: When a Graph is What You Need | [EMNLP25](https://aclanthology.org/2025.emnlp-industry.16.pdf) | [Github](https://github.com/schang-lab/gems) |
 
 - Fine-tuning
 
@@ -40,8 +41,15 @@
 | Date | Name | Title | Paper | Github |
 |:-:|:-:|:-|:-:|:-:|
 |2024-04| `OASIS` | OASIS: Open Agent Social Interaction Simulations with One Million Agents | [Arxiv](https://arxiv.org/abs/2411.11581) | [Github](https://github.com/camel-ai/oasis) |
+|2025-11| `SPARK` | SPARK: Simulating the Co-evolution of Stance and Topic Dynamics in Online Discourse with LLM-based Agents | [EMNLP25](https://aclanthology.org/2025.emnlp-main.1176.pdf) | comming soon |
+|2024-12| `TrendSim` | TrendSim: Simulating Trending Topics in Social Media Under Poisoning Attacks with LLM-based Multi-agent System | [NAACL25](https://aclanthology.org/2025.findings-naacl.160.pdf) | [Github](https://github.com/nuster1128/TrendSim)  |
 
 
+### Agent Agent Collaboration
+| Date | Name | Title | Paper | Github |
+|:-:|:-:|:-|:-:|:-:|
+|2025-11| `DeMAC` |DeMAC: Enhancing Multi-Agent Coordination with Dynamic DAG and Manager-Player Feedback  | [EMNLP25](https://aclanthology.org/2025.findings-emnlp.757.pdf) | - |
+|2025-11|  | Unlocking the Power of Multi-Agent LLM for Reasoning: From Lazy Agents to Deliberation | [Arxiv](https://arxiv.org/pdf/2511.02303) | 
 
 
 ### Human Agent Collaboration
