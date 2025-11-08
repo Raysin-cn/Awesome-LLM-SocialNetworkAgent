@@ -26,7 +26,7 @@
 
 | Date | Name | Title | Paper | Github |
 |:-:|:-:|:-|:-:|:-:|
-|2025-11| `GEMS` | Rethinking LLM Human Simulation: When a Graph is What You Need | [EMNLP25](https://aclanthology.org/2025.emnlp-industry.16.pdf) | [Github](https://github.com/schang-lab/gems) |
+|2025-11| `GEMS` | Rethinking LLM Human Simulation: When a Graph is What You Need | [EMNLP25](https://arxiv.org/abs/2511.02135) | [Github](https://github.com/schang-lab/gems) |
 
 - Fine-tuning
 
