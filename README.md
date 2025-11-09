@@ -55,6 +55,7 @@
 |2025-10| - | Social Simulations with Large Language Model Risk Utopian Illusion | [Arxiv](https://arxiv.org/pdf/2510.21180) | - |
 
 - Network Sim
+
 | Date | Name | Title | Paper | Github |
 |:-:|:-:|:-|:-:|:-:|
 |2025-10| `GRAPHIA` | GRAPHIA: Harnessing Social Graph Data to Enhance LLM-Based Social Simulation | [Arxiv](https://arxiv.org/pdf/2510.24251) | [Github](https://github.com/Ji-Cather/Graphia) |
