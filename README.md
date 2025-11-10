@@ -67,6 +67,7 @@
 |:-:|:-:|:-|:-:|:-:|
 |2025-11| `DeMAC` |DeMAC: Enhancing Multi-Agent Coordination with Dynamic DAG and Manager-Player Feedback  | [EMNLP25](https://aclanthology.org/2025.findings-emnlp.757.pdf) | - |
 |2025-11| - | Unlocking the Power of Multi-Agent LLM for Reasoning: From Lazy Agents to Deliberation | [Arxiv](https://arxiv.org/pdf/2511.02303) | 
+|2025-11| `TAMAS` | TAMAS: Benchmarking Adversarial Risks in Multi-Agent LLM Systems | [Arxiv](https://arxiv.org/pdf/2511.05269) | [Github](https://github.com/microsoft/TAMAS) 
 
 
 ### Human Agent Collaboration
