@@ -10,6 +10,13 @@
 
 > We welcome everyone to open an issue for any related work we haven’t discussed, and we’ll try to address it in the next release!
 
+## Awesome List
+
+[Papers and Resources about Role-Playing Language Models](https://github.com/Neph0s/awesome-llm-role-playing-with-persona)
+
+[Awesome Social Agents](https://github.com/sotopia-lab/awesome-social-agents)
+
+[Social Agent](https://github.com/fudandisc/socialagent)
 
 ## Paper List
 
