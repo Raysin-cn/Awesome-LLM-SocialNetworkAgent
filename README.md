@@ -28,6 +28,7 @@
 |2025-11| - | Evaluating Conversational Agents with Persona-driven User Simulations based on Large Language Models: A Sales Bot Case Study | [EMNLP25](https://aclanthology.org/2025.emnlp-industry.16.pdf) | - |
 |2024-4| `LifeChoice` | Character is Destiny: Can Role-Playing Language Agents Make Persona-Driven Decisions? | [EMNLP25](https://arxiv.org/abs/2404.12138) | [Github](https://github.com/airaer1998/LifeChoice) |
 |2025-1| - | Modeling, Evaluating, and Embodying Personality in LLMs: A Survey | [EMNLP25](https://aclanthology.org/2025.findings-emnlp.506.pdf) | - |
+|2025-11| - | LLM Generated Persona is a Promise with a Catch | [COLM2025](https://arxiv.org/abs/2503.16527) | - |
 
 - Graph-based
 
